@@ -1,7 +1,39 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jasdakorn Khumdej
 =========================================================================================================================================
 
-{ "surname": "Aek", "AGE": 23, "Married\_status": "Single", "ADDRESS": "Chomphon Chatujak Bangkok", "Hobby": \[ "Basketball", "Gaming", "Coding" \], "Email": "Jasdakornam@gmail.com", "IG": "Jasdakorn Aek", "facebook": "4ekkkkkkkkk", "LINE": "dumbleu23", "TEL": "061-9799-148", "Skills": \[ "C#", ".Net Core", "HTML", "CSS", "TypeScript", "JavaScript", "C Arduino" \], "Tools": \[ "Draw.io", "Visual Studio Code", "SQL", "Postman", "Canva", "MongoDB" \], "Knowledges": \[ "Design SQL Database", "Design DVM and AVM", "Design Website Template", "Sending Data with JSON" \], "Education": { "Degree": "Bachelor’s Degree in Electronic Computer Technology", "Institution": "King Mongkut University Of Technology North Bangkok", "Years": "2022-2024" } }
+{ "surname" : "Aek", 
+"AGE" : 23, 
+"Married_status" : "Single", 
+"ADDRESS" : "Chomphon Chatujak Bangkok", 
+"Hobby" : [ "Basketball", 
+"Gaming", 
+"Coding" ], 
+"Email" : "Jasdakornam@gmail.com", 
+"IG" : "Jasdakorn Aek", 
+"facebook" : "4ekkkkkkkkk", 
+"LINE" : "dumbleu23", 
+"TEL" : "061-9799-148", 
+"Skills" : [ "C#", 
+".Net Core", 
+"HTML", 
+"CSS", 
+"TypeScript", 
+"JavaScript", 
+"C Arduino" ], 
+"Tools" : [ "Draw.io", 
+"Visual Studio Code", 
+"SQL", 
+"Postman", 
+"Canva", 
+"MongoDB" ], 
+"Knowledges" : [ "Design SQL Database", 
+"Design DVM and AVM", 
+"Design Website Template", 
+"Sending Data with JSON" ], 
+"Education" : { "Degree" : "Bachelor’s Degree in Electronic Computer Technology", 
+"Institution" : "King Mongkut University Of Technology North Bangkok", 
+"Years" : "2022-2024" } }
+
 
 * 🌍  I'm based in Thailand
 * ✉️  You can contact me at [jasdakornam@gmail.com](mailto:jasdakornam@gmail.com)
