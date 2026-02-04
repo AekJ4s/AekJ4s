@@ -19,6 +19,7 @@
 ### Database
 - SQL  
 - MongoDB  
+- **SQL Stored Procedure**
 
 ### Embedded
 - C Arduino  
@@ -39,13 +40,13 @@
 
 ## 📚 Knowledge & Experience
 - SQL Database Design  
+- **Write & Optimize SQL Stored Procedures**  
 - DVM & AVM Design  
 - Website Template Design  
 - JSON Data Communication  
 - **LINE OA Notification**
-  - ส่งแจ้งเตือนผ่าน LINE Official Account  
-  - เชื่อมต่อกับ Backend (.NET)  
-  - ใช้ LINE Messaging API  
+  - LINE Messaging API  
+  - Notify Event / Status from .NET Backend  
 
 ---
 
